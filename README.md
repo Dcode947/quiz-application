@@ -1,2 +1,20 @@
-# quiz-application
-A console-based quiz application built in C++ where users answer multiple-choice questions and receive instant feedback. Designed for future upgrades like answer explanations, score tracking, and dynamic questions. Strengthened my understanding of control flow, functions, and user input.
+# Quiz Application (C++)
+
+A console-based quiz application built using C++.
+
+--Features
+- Multiple-choice questions
+- Score calculation
+- Displays solution for incorrect answers
+- Beginner-friendly and interview-ready
+
+--Concepts Used
+- Structures
+- Arrays
+- Loops
+- Conditional statements
+
+--Future Improvements
+- File handling for dynamic questions
+- Timer-based quiz
+- Category-wise questions
